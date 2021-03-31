@@ -7,11 +7,22 @@ package za.ac.cput.maventesting;
  */
 public class computeSquareArea {
     
+    
+    
     public int add(int a, int b){
          return a + b;
     }
     
-    public double computeSqureArea(double side){
-        return 0.0;
+    public int computeSqureArea(int side){
+        return side*side;
+    }
+    
+    public boolean Loop(int a){
+        
+        while(true){
+            
+            System.out.println(a);
+        }
+    
     }
 }

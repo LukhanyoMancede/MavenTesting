@@ -13,7 +13,6 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- *
  * @author Lukhanyo Mancede - 217139205[Group 26]
  */
 public class bankAccountTest {
